@@ -1,0 +1,12 @@
+node_name,no_of_neighbours,neighbourlist
+apesuniversity,1,hosur:1 
+bannerghatta,2,jayadevahospital:4;silkboard:9
+churchstreet,2,mgroad:1;ulsoor:10
+dairycircle,3,hosur:1;jayadevahospital:2;kormangala:5
+hosur,3,apesuniversity:1;dairycircle:1;kormangala:1
+indiranagar,1,ulsoor:9
+jayadevahospital,4,bannerghatta:4;dairycircle:2;kormangala:10,silkboard:3
+kormangala,4,dairycircle:5;hosur:1;jayadevahospital:10;ulsoor:6
+mgroad,1,churchstreet:1
+silkboard,2,bannerghatta:9;jayadevahospital:3
+ulsoor,3,kormangala:6;indiranagar:9;churchstreet:10
